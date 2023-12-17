@@ -4,7 +4,7 @@ document.getElementById('search-input').addEventListener('input', function() {
     resultsList.innerHTML = '';
 
     let words = [
-        "avoid possible collisions": "избягвам възможни сблъсъци",
+        "avoid possible collisions - избягвам възможни сблъсъци",
   "beforehand, in advance - предварително",
   "board - качвам се на самолет/кораб",
   "bold - смел, дързък, предприемчив",
