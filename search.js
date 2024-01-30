@@ -28,7 +28,9 @@ document.getElementById('search-input').addEventListener('input', function() {
 "Check Out - the place where you pay in a supermarket", "Fake - not real", "Refund - money that is given back", "Invaluable - too valuable to measure; priceless", "Valueless - worthless", "Bank On Somebody - depend on sth happening", "Come Across - find sth / meet sb by chance",
 "Do Without - live without (sth you can't afford)", "Make Up For - do sth as a way of correcting/improving sth else", "Put By / Set Aside - save an amount of money for the future", "Run Up - create a lot of debt quickly and carelessly", "Cut Back On - reduce the amount of money you spend",
 "Rip Off - cheat sb by charging them too much", "Chip In - each gives some money to help pay for sth", "Put Down - pay a deposit", "Shop Around For - compare prices and quality in different shops before buying", "Pay Back - return borrowed money to someone",
-"Fork Out - spend a lot of money on sth unwillingly", "Splash Out - spend a lot of money on sth expensive", "Come To - reach a total sum", "Pick Up - buy/obtain by payment", "Sold Out - no more products available for selling","---",
+"Fork Out - spend a lot of money on sth unwillingly", "Splash Out - spend a lot of money on sth expensive", "Come To - reach a total sum", "Pick Up - buy/obtain by payment", "Sold Out - no more products available for selling",
+"break out - escape","verdict - решението на съдията","capital punishment - смъртна присъда","corporall - телесна повреда","bring in - въвеждам нов закон","go off - изгасвам бомба","hand in - предавам нчкой на полицията или дм","look into - investigate",
+"bystanders - свидетели","have no intention of doing - нямам намерение да правя","catch a glimpse of - погледни нещо набързо","evidence - доказателство","imprisonment - да те вкарат в затвора","allegation - твърдение","hold up - rob","---",
     ];
 
     words.forEach(function(word) {
