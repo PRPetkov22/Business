@@ -47,7 +47,15 @@ document.getElementById('search-input').addEventListener('input', function() {
         "das Cola-s - кола","der Durst - жаден съм","kochen - готвя","fur - за","Lieblings - любим","das Essen - ядене","das Rezept-e - рецепта","typisch - типичен",
         "ganz - цял","einfach - обикновен, прост","die Portion-en - порция","groB - голям(за хора)","schmecken - нещо е вкусно","trinken - пия","das Glas-er - стъкло,чаша",
         "studieren - следвам(студенти)","die Suppe-n - супа","die Leute - хора","zu hause - вкъщи","nach hause - вкъщи","zum Beispiel - например","der Pfeffer - черен пипер",
-        "reichen - абсурд","der Tag-е - ден","teuer - скъп","billig - евтин","gern-e - с удоволствие","das Getrank-e - напитка","---"
+        "reichen - абсурд","der Tag-е - ден","teuer - скъп","billig - евтин","gern-e - с удоволствие","das Getrank-e - напитка","Ich komme; du kommst; er/sie/es kommt; wir kommen; ihr kommt; Sie/sie kommen",
+"Ich spreche; du sprichst; er/sie/es spricht; wir sprechen; ihr sprecht; Sie/sie sprechen",
+"Ich heiBe; du heiBt; er/sie/es heiBt; wir heiBen; ihr heiBt; Sie/sie heiBen",
+"Ich bin; du bist; er/sie/es ist; wir sind; ihr seid; Sie/sie sind",
+"Ich habe; du hast; er/sie/es hat; wir haben; ihr habt; Sie/sie haben",
+"Ich lebe; du lebst; er/sie/es lebt; wir leben; ihr lebt; Sie/sie leben",
+"Ich wohne; du wohnst; er/sie/es wohnt; wir wohnen; ihr wohnt; Sie/sie wohnen",
+"Ich lerne; du lernst; er/sie/es lernt; wir lernen; ihr lernt; Sie/sie lernen",
+"mein - моя","dein - твоя","ihr - неговия","---"
         
     ];
 
