@@ -123,8 +123,20 @@ document.getElementById('search-input').addEventListener('input', function() {
   "splash out - spend a lot of money on sth expensive",
   "come to - reach a total sum",
   "pick up - buy/obtain by payment",
-  "sold out - no more products available for selling"
-        
+  "sold out - no more products available for selling",
+  "be obese - затластял",
+  "get a prescription - вземи рецепта",
+  "processed food - обработена храна",
+  "relieve symptoms - облекчаване на симптоми",
+  "shiver - дрънка",
+  "sprain - скъсване",
+  "despite - въпреки",
+  "in spite of - въпреки че",
+  "intake - прием",
+  "pollen - прах",
+  "saturate - насищам",
+  "strength - сила",
+  "therefore - затова","---"
     ];
 
     words.forEach(function(word) {
