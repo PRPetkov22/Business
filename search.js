@@ -136,7 +136,17 @@ document.getElementById('search-input').addEventListener('input', function() {
   "pollen - прах",
   "saturate - насищам",
   "strength - сила",
-  "therefore - затова","---"
+  "therefore - затова",
+  "hydration - хидратация",
+  "liquid - течност",
+  "harmful - опасно",
+  "more or less - малко или много",
+  "equivalent - еквивалентно",
+  "irritable - раздразнителен",
+  "anxious - притеснен",
+  "coincidence - съвпадение",
+  "excessive - в излишък",
+  "maintain - подържащ нещо","---"
     ];
 
     words.forEach(function(word) {
