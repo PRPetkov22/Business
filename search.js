@@ -4,7 +4,7 @@ document.getElementById('search-input').addEventListener('input', function() {
     resultsList.innerHTML = '';
 
     let words = [
-        "gig": "концерт, представление",
+        "gig - концерт, представление",
   "lighting": "осветление",
   "lyrics": "текст на песен",
   "performance": "изпълнение, представяне",
