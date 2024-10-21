@@ -76,7 +76,13 @@ document.getElementById('search-input').addEventListener('input', function() {
         "der Vormittag-e - предиобяд","der Mittag-e - обяд","der Nachmittag-e - следобяд","der Abend-e - вечер","die Nacht-e - нош","das Kino-s - кино","chatten - чатя","horen-horte-hat gehort - слушам",
         "raten-riet-hat geraten - познавам","jeder - всеки","das Cafe-s - кафене","taglich - ежедневно","das Fahrrad-er - колело","die Bibliothek-en - библиотека","der Feiertag-e - почивен ден","geschlossen - затворено",
         "die Ansage-n - съобщение","offiziell  - официално","der Film-e - филм","sehen-sah-hat gesehen - виждам","das Museum - музей","geoffnet - отворен","das Schiff-e - кораб","die Tour-en - обиколка","das Kaufhaus-er - търговски център",
-        "das Europa - Европа","der Moment-e - момент","kennenlernen-lernte kennen-hat kennengelernt - опознай","die Abfahrt-en - отпътуване","der Erwachsene-n - възрастен","der Plan-e - план","---"
+        "das Europa - Европа","der Moment-e - момент","kennenlernen-lernte kennen-hat kennengelernt - опознай","die Abfahrt-en - отпътуване","der Erwachsene-n - възрастен","der Plan-e - план",
+        "der Reifen,- : гума/обрач", "üben : упражнявам се" ,"fragen, -te, h-t : питам","schicken, -te, h-t: пращам, изпращам" , "funktionieren: функционира" ,"reiten, rit, ist geritten: яздя кон",
+        "schwierich : труден", "gar nicht :  изобщо" ,"malen, -te, -t: рисувам", "backen, -backte ,h gebacken: пека", "das Tennis(spielen): играя тенис" ,"singen, sang, h gesungen: пея",
+        "das Klavier,-e: пиано", "wollen: искам", "der Kurs,-e: курс", "der Stress: стрес", "die Kommunikation: комуникация",
+        "das Training: трейнинг:" , "die Psychologie: психология", "das Theather,-: театър", "die Mathematik: математика", "die Ferien: ваканция/почивка", "schreiben, schrieb, h geshrieben: пиша",
+        "noch: още", "gestern: вчера", "finden,fand,h gefunden: намирам", "früher: рано", "oft: често" ,"einmal: веднъж", "nie: никога" ,"öfter: по-често", "schwer: тежък/труден","leicht: лек/лесен",
+        "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "----"
     ];
 
     words.forEach(function(word) {
