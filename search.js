@@ -82,7 +82,8 @@ document.getElementById('search-input').addEventListener('input', function() {
         "das Klavier,-e: пиано", "wollen: искам", "der Kurs,-e: курс", "der Stress: стрес", "die Kommunikation: комуникация",
         "das Training: трейнинг:" , "die Psychologie: психология", "das Theather,-: театър", "die Mathematik: математика", "die Ferien: ваканция/почивка", "schreiben, schrieb, h geshrieben: пиша",
         "noch: още", "gestern: вчера", "finden,fand,h gefunden: намирам", "früher: рано", "oft: често" ,"einmal: веднъж", "nie: никога" ,"öfter: по-често", "schwer: тежък/труден","leicht: лек/лесен",
-        "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "----"
+        "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "---"
+    ];
     ];
 
     words.forEach(function(word) {
