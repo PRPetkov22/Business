@@ -84,7 +84,6 @@ document.getElementById('search-input').addEventListener('input', function() {
         "noch: още", "gestern: вчера", "finden,fand,h gefunden: намирам", "früher: рано", "oft: често" ,"einmal: веднъж", "nie: никога" ,"öfter: по-често", "schwer: тежък/труден","leicht: лек/лесен",
         "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "---"
     ];
-    ];
 
     words.forEach(function(word) {
         if (word.toLowerCase().includes(input)) {
