@@ -82,7 +82,13 @@ document.getElementById('search-input').addEventListener('input', function() {
         "das Klavier,-e: пиано", "wollen: искам", "der Kurs,-e: курс", "der Stress: стрес", "die Kommunikation: комуникация",
         "das Training: трейнинг:" , "die Psychologie: психология", "das Theather,-: театър", "die Mathematik: математика", "die Ferien: ваканция/почивка", "schreiben, schrieb, h geshrieben: пиша",
         "noch: още", "gestern: вчера", "finden,fand,h gefunden: намирам", "früher: рано", "oft: често" ,"einmal: веднъж", "nie: никога" ,"öfter: по-често", "schwer: тежък/труден","leicht: лек/лесен",
-        "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "---"
+        "cool: готин", "die Zeitung,-en: вестник", "meistens: обикновено/в повечето случаи", "die Antwort,-en: отговор", "der Bus,-se: автобус", "die Geschichte-n: история",
+        "das Krankenhaus-er: болница", "das Interview-s: интервю", "die Ausbildung-en: образование", "der Beruf-e: професия", "der Chef: шев", "der Patient-en: пациент", "der Journalist-en: журналист",
+        "der Hausmeister-nen: домакин", "das Thema-en: тема", "eigen: собствен/свой", "als: работя като", "der Arzt-e: доктор", "der Ingenieur-e: инженер", "der Hausmann-er: домакин(вкъщи)", "der Polizist-en: полицай",
+        "der Krankenpfleger: мед.сестра", "der Krankenschwester-n: мед.сестра", "beruflich: професионално", "der Schuler: ученик", "IT-Spezialistin: ИТ специалист", "der Student-en: студент", "der Job-s: работа",
+        "die ArbeitsStelle-n: работно място","selbstsanding: самостоятелен", "arbeitslos: безработен", "dauern: продължава", "seit: от(предлог)", "die Bewerbung-en: кандидатстване", "das Praktikum: практика",
+        "der Leiter: ръководител", "die Frage-n: въпрос", "geehrt: уважаем", "die Abteilung-en: отдел", "die Wirtschaft: икономика/стопанство", "gerade: туку що", "das Diplom-e: диплома", "das Buro-s: офис",
+        "die Information-en: информация", "der GruB-е: поздрав"
     ];
 
     words.forEach(function(word) {
