@@ -88,7 +88,22 @@ document.getElementById('search-input').addEventListener('input', function() {
         "der Krankenpfleger: мед.сестра", "der Krankenschwester-n: мед.сестра", "beruflich: професионално", "der Schuler: ученик", "IT-Spezialistin: ИТ специалист", "der Student-en: студент", "der Job-s: работа",
         "die ArbeitsStelle-n: работно място","selbstsanding: самостоятелен", "arbeitslos: безработен", "dauern: продължава", "seit: от(предлог)", "die Bewerbung-en: кандидатстване", "das Praktikum: практика",
         "der Leiter: ръководител", "die Frage-n: въпрос", "geehrt: уважаем", "die Abteilung-en: отдел", "die Wirtschaft: икономика/стопанство", "gerade: туку що", "das Diplom-e: диплома", "das Buro-s: офис",
-        "die Information-en: информация", "der GruB-е: поздрав"
+        "die Information-en: информация", "der GruB-е: поздрав", "das Amt-er - служба, институция", "gultig - валиден", "mieten - взимам под наем", "auslandisch - чуждестранен", "das Ausland - чужбина",
+        "europaisch - европейски", "die Europaische Union - европейски съюз", "jung - млад", "die Fahrkarte-n -  билет", "die Fahrt-en - пътуване", "der Antrag-e - заявление, молба", "aus fullen - попълвам",
+        "der Ausweis-e - лична карта", "mit bringen, brachte, hat mitgebracht - нося", "der Pass-e - паспорт", "die Kreditkarte-n - кредитна карта", "verstehen - разбирам", "der Automat-en - автомат",
+        "aus wahlen, te, hat ausgewahlt - избирам от", "das Ziel-e - цел", "wahlen, -te, hat gewahlt - избирам общ", "man - безличен подлог", "zuerst - първо", "danach - след това", "dann - после",
+        "der Schluss - край", "wissen, wusste, hat gewusst - знам", "vermiefen - взимам под наем", "vorne - отпред", "der Laden - магазин", "ab-holen - вдигам", "leise - тих", "die Ubung-en - упражнение",
+        "erklaren - обещавам", "laut - шумен", "aus machen - изключвам", "schlieBen, schloB, hat geschlossen - заключвам" , "offnen - отварям", "zu-horen - вслушвам", "der Text-e - текст", "auf-stehen - ставам",
+        "punktlich - точен", "warten, wartete, hat gewartet - чакай ", "die Anmeldung-en - регистрация", "die Gebuhr-en - такса", "die Kasse-n - каса", "ander - друг", "der Unterricht - учебен час", "lachen, lachte, hat gelacht - смея се",
+        "beantragen - подавам заявление", "die Zigarette-n - цигари", "rauchen - пуша", "die offnungszeiten - работно време", "langsam - бавно", "der Parkplatz-e - паркинг", "parken - паркирам", "Achtung - внимание",
+        "erlaubt - позволен", "verboten - забранен", "mit nehmen - взимам със себе си", "das Eis - сладолет", "das Gepack - багаж", "ab-geben - предавам", "benutzen - използвам", "das Hotel - хотел", "die Minute-n - минута",
+        "der Rundgang-e - обиколка", "die Sehenswurdigkeit-en - забележителност", "beginnen, began, hat-begonnen - започвам", "der EinKauf-e - пазарувам", "beruhmt - известен", "der Einwohner - жител", "der Stadtplan-e - карта",
+        "besuchen - посещение", "die Geburt-en - раждане", "die ErmaBigung-en - да направиш умерена цената", "die Oper - опера", "die Fuhrung-en - обиколка с екскурзувот", "der Dom-e - катедрала", "paar - няколко",
+        "der Schritt-e -  стъпка/кратка", "das Gebaude - сграда", "der Eintritt - вход за мероприятие", "die Auskunft-e - информация", "das Zentrum - център", "inklusive - инклузив", "kostenlos - безплатно", "das Ergebnis-se - резултат",
+        "wachsen, wuchs, ist gewachsen - раста", "die Altstadt-e - стария град", "der See-n - езеро", "die Klimaanlage-n - климатик", "das Fruhstuck - закупка", "die Lage-n - местоположение", "zentral - централа",
+        "der Blick-e - гледка", "die Terrasse-n - тераса", "das Schwimmbad-er - басейн", "die Haltestelle-n - спирка", "buchen - резервирам", "das Doppelzimmer - двойна стая", "das Einzelzimmer - стая за един човек",
+        "der Gast-e - гост", "der Wunsch-e - пожелание", "die Nichtraucher - непушач", "die Ankunft-e - пристигащ", "die Rezeption-en - рецепция", "fertig - готово", "wiederholen - повтарям", "der Rahm - каймак",
+        "die Vollpension - пълен пансион", "die Halbpension - Полупансион"
     ];
 
     words.forEach(function(word) {
