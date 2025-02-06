@@ -103,7 +103,13 @@ document.getElementById('search-input').addEventListener('input', function() {
         "wachsen, wuchs, ist gewachsen - раста", "die Altstadt-e - стария град", "der See-n - езеро", "die Klimaanlage-n - климатик", "das Fruhstuck - закупка", "die Lage-n - местоположение", "zentral - централа",
         "der Blick-e - гледка", "die Terrasse-n - тераса", "das Schwimmbad-er - басейн", "die Haltestelle-n - спирка", "buchen - резервирам", "das Doppelzimmer - двойна стая", "das Einzelzimmer - стая за един човек",
         "der Gast-e - гост", "der Wunsch-e - пожелание", "die Nichtraucher - непушач", "die Ankunft-e - пристигащ", "die Rezeption-en - рецепция", "fertig - готово", "wiederholen - повтарям", "der Rahm - каймак",
-        "die Vollpension - пълен пансион", "die Halbpension - Полупансион"
+        "die Vollpension - пълен пансион", "die Halbpension - Полупансион", "heiraten - женя се", "eigentlich - всъщност", "spater - по-късно", "der Reisefuhrer/rerin - екскурзовот", "der Tourist-en - турист",
+        "zeigen - показвам", "die Erfahrung - опит/стаж", "manchmal - понякога", "der Kellner - сервитьор", "der Architekt-en - архитект", "der Arbeiter - работник", "wenig - малко", "viel - много", "der Kollege-n - колега",
+        "der Koch-e- готвач", "die Universitat-en - университет", "leider - за съжаление", "das Semester - семестер", "bekommt,bekam,hat bekommen - получавам", "bald - скоро", "Bis bald! - до скоро", "verdor - става",
+        "das Konzert-e - концерт", "die Agentur-en - агенция", "danach - след това", "das Studium - следване", "letzt - последен", "der Service-s - сервиз", "der Tourismus - туризъм", "der Kontakt-e - контакт",
+        "die Kenntnisse - познание", "das Team-s - отбор", "bietet an,bot an,hat angeboten - предлагам", "der Auszubildende-n - стажант", "die Unterlagen - документи", "der Handel - търговия", "der Bereich-e - сфера/област",
+        "die Mode-n - мода", "jed - всеки", "montags - повтарящо се събитие", "morgens - сутрин", "der Praktikant-en - стажант", "schriftlich - писмен", "die Dauer -  трае", "frei - свободен", "normalerweise - обикновено",
+        "das Geld - пари", "zahlen - плащам", "prostunde - на час", "die Stunde-n - час", "mit-kommen - идвам с някого", "der Fuhrerschein-e - шофьорска книжка", "das Ticket-s - билет", "der Bahnhof - гора", "hof - двор"
     ];
 
     words.forEach(function(word) {
