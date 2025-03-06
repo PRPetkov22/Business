@@ -109,8 +109,17 @@ document.getElementById('search-input').addEventListener('input', function() {
         "das Konzert-e - концерт", "die Agentur-en - агенция", "danach - след това", "das Studium - следване", "letzt - последен", "der Service-s - сервиз", "der Tourismus - туризъм", "der Kontakt-e - контакт",
         "die Kenntnisse - познание", "das Team-s - отбор", "bietet an,bot an,hat angeboten - предлагам", "der Auszubildende-n - стажант", "die Unterlagen - документи", "der Handel - търговия", "der Bereich-e - сфера/област",
         "die Mode-n - мода", "jed - всеки", "montags - повтарящо се събитие", "morgens - сутрин", "der Praktikant-en - стажант", "schriftlich - писмен", "die Dauer -  трае", "frei - свободен", "normalerweise - обикновено",
-        "das Geld - пари", "zahlen - плащам", "prostunde - на час", "die Stunde-n - час", "mit-kommen - идвам с някого", "der Fuhrerschein-e - шофьорска книжка", "das Ticket-s - билет", "der Bahnhof - гора", "hof - двор"
-    ];
+        "das Geld - пари", "zahlen - плащам", "prostunde - на час", "die Stunde-n - час", "mit-kommen - идвам с някого", "der Fuhrerschein-e - шофьорска книжка", "das Ticket-s - билет", "der Bahnhof - гора", "hof - двор",
+        "die Notaufnahme-n - спешто отделение","das Auge-n - око","weh-tun - боли ме","der Unfall-e - злополука/проишествие","der Doktor-en - лекар","der Schmerz-en - болка","sollen - трябва(по чужда воля)","das Madchen - момиче",
+        "schlecht - зле","schlimm - зле","geben - давам","die Tablette-n - хапче","beide - двамата/двете","lustig - весел","es gibt - има(без личен подлог)","das Bein-e - крак","das Haar-e - коса","das Ohr-en - ухо",
+        "der Arm-e - цяла ръка","der Bauch-e - корем","der Finger - пръст","der FuВ-е - стъпало","der Hals-e - врат","kuhl - хладен","wartebereich - чакалня","zu FuB - пеша","der Kopf-e - глава","der Rucken - гръб",
+        "die Brust-e - гръден кош","die Hand-e - длан","die Nase-n - нос","der Mund-er - уста","sein-e - негов","ihr-e - нейн","krank - болен","informieren - информация","unser - наш","aus fallen - отпада","das Lied-er - със песен",
+        "der Kuss-e - целувка","eu(e)r - ваш","gesund - здрав","hoffentlich - да се надяваме","der Bekannte - познат/известен","die Medizin - медицина","trainieren - тренирам","der Husten - кашлица","die salbe-n - мехлем",
+        "verwenden - употребявам","die Gesundheit - здрав","tun-tat-hat getan - правя/върша","die Krankheit-en - болест","das Tiere - животни","das Fieber - температура","der Schnupfen - тече ми носа","der Wald-er - гора",
+        "dick - дебел","die Leute - хора","nichts - нищо","auf passen - внимавам/грижа се","der Kursleiter - ръководител на курса","ruhig - тих/спокоен","beobachten - набюдавам","der Bauernhof-e - селски двор","die Gruppe-n - група",
+        "der Mensch-en - човек","laufen - бягам","der Spaziergang-e - разходка","gegen - против","doppelt - двоен","der Inhalt-e - съдържание","der Absender - подател","der Orte-e - населено място","der Empfanger - получател",
+        "der Kilometer - километър","der Zug-e - влак","das Datum - дата","die Anrede-n - поздрав"
+    ]
 
     words.forEach(function(word) {
         if (word.toLowerCase().includes(input)) {
