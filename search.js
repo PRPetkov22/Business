@@ -118,7 +118,7 @@ document.getElementById('search-input').addEventListener('input', function() {
         "verwenden - употребявам","die Gesundheit - здрав","tun-tat-hat getan - правя/върша","die Krankheit-en - болест","das Tiere - животни","das Fieber - температура","der Schnupfen - тече ми носа","der Wald-er - гора",
         "dick - дебел","die Leute - хора","nichts - нищо","auf passen - внимавам/грижа се","der Kursleiter - ръководител на курса","ruhig - тих/спокоен","beobachten - набюдавам","der Bauernhof-e - селски двор","die Gruppe-n - група",
         "der Mensch-en - човек","laufen - бягам","der Spaziergang-e - разходка","gegen - против","doppelt - двоен","der Inhalt-e - съдържание","der Absender - подател","der Orte-e - населено място","der Empfanger - получател",
-        "der Kilometer - километър","der Zug-e - влак","das Datum - дата","die Anrede-n - поздрав"
+        "der Kilometer - километър","der Zug-e - влак","das Datum - дата","die Anrede-n - обръщение", "das Musli-s - мюсли"
     ]
 
     words.forEach(function(word) {
